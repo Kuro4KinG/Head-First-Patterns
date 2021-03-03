@@ -4,7 +4,7 @@ public class ModelDuck extends Duck {
 
     public ModelDuck() {
         flyBehavior = new FlyNoWay();
-        quaqckBehavior = new Quack();
+        quackBehavior = new Quack();
     }
 
     @Override
